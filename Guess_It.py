@@ -14,7 +14,6 @@ label_3 = Label(root)
 entry_1 = Entry(root)
 entry_2 = Entry(root)
 
-
 label_1.grid(row=0)
 label_2.grid(row=1)
 label_3.grid(row=3, column=1)
