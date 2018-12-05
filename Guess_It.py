@@ -31,11 +31,11 @@ def answer():
 
 
     if number_1 == "nick" and number_2 == "120ba":
-        value = "Felicitari!"
+        value = "--Felicitari!--"
     elif number_1 == "nick" or number_2 == "120ba":
-        value = "Ai nimerit una. Inca putin!"
+        value = "--Ai nimerit una. Inca putin!--"
     else:
-        value = "Nu dispera. Mai incearca! :)"
+        value = "--Nu dispera. Mai incearca! :)--"
         
     Entry.insert(entry_3, 0 , value)
 
