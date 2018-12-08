@@ -1,9 +1,7 @@
 from tkinter import *
 import tkinter.messagebox
 
-
 root = Tk()
-
 
 tkinter.messagebox.showinfo('Window Title', "Gaseste username-ul si parola !")
 tkinter.messagebox.showinfo( "Window Title", "Username-ul poate fi format din: 'nick' sau 'norman', iar parola din: cifrele 0, 1 si 2 si literele 'a' si 'b'.\n Gasiti username-ul potrivit si parola potrivita pentru a debloca, contul. \n Succes!!! ")
