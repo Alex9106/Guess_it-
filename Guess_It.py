@@ -21,7 +21,6 @@ entry_1.grid(row=0, column=1)
 entry_2.grid(row=1, column=1)
 entry_3.grid(row=2, column=1)
 
-
 def answer():
 
     number_1 = Entry.get(entry_1)
