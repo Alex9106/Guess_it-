@@ -6,7 +6,7 @@ root = Tk()
 tkinter.messagebox.showinfo('Window Title', "Gaseste username-ul si parola !")
 tkinter.messagebox.showinfo( "Window Title", "Username-ul poate fi format din: 'nick' sau 'norman'."
                             "Parola din: cifrele 0, 1 si 2 si literele 'a' si 'b'."
-                            "Gasiti username-ul potrivit si parola potrivita pentru a debloca, contul.\n Succes!!! ")
+                            "Gasiti username-ul potrivit si parola potrivita pentru a debloca, contul.\n Succes!")
 
 label_1 = Label(root, text='Username')
 label_2 = Label(root, text='Password')
