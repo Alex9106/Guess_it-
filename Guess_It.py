@@ -27,7 +27,6 @@ def answer():
     number_1 = Entry.get(entry_1)
     number_2 = Entry.get(entry_2)
 
-
     if number_1 == "nick" and number_2 == "120ba":
         value = "--Felicitari!--"
     elif number_1 == "nick" or number_2 == "120ba":
